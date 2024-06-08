@@ -22,7 +22,7 @@ To get a local copy up and running, follow these steps:
 Clone the repository:
 sh
 Copy code
-git clone https://github.com/yourusername/pastel-stationery-byte.git
+git clone https://github.com/Yogeshnema2412/pastel-stationery-byte.git
 Install dependencies:
 sh
 Copy code
